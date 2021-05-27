@@ -1,0 +1,34 @@
+header{
+    height: 100px;
+    text-align: center;
+    background-color: lightskyblue;
+    padding-top: 25px;
+    color:royalblue;
+}
+.picture{
+    padding: 25px;
+    width: 900px;
+    margin: auto;
+}
+
+.title{
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    color: royalblue;
+    text-align: center;
+}
+.box{
+    background-color: lightskyblue;
+
+}
+.Cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+.card {
+    width: 33%;
+    margin: 5%;
+    }
